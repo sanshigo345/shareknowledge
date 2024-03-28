@@ -6,7 +6,7 @@ This project aims to facilitate the sharing of knowledge (books) among users thr
 
 ## Project Overview
 
-The shareknowledge Project allows users to add books to a collection and borrow books from the collection. While the project currently does not utilize a database, it serves as a starting point for implementing a decentralized book-sharing platform.
+The shareknowledge Project allows users to add books to a collection and borrow books from the collection. While the project is very very new in development right now and currently does not utilize a database, it serves as a starting point for implementing a decentralized knowledge sharing platform.
 
 ![Project Preview](projectpreview.gif)
 
@@ -25,6 +25,7 @@ Although the current version of the project is very simple, there are plans for 
 - Token gifting system: Reward users with tokens for donating books to the collection, encouraging community participation and contribution.
 - Special user role for authors which they can add the same book more than once to promote their books.
 - Enhanced user experience: Improve the user interface (like a lot!) and add features for easier book discovery, borrowing and adding to the collection.
+- Why limit this project with just books! In the future users could share their knowledge with blogs, images, courses and much more.
 
 # To run this project in your computer:
 
