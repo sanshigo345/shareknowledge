@@ -1,15 +1,32 @@
-# shareknowledge
+## shareknowledge
 
-Welcome to your new shareknowledge project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
+Welcome to my shareknowledge project done for [Internet Computer Internship Bootcamp](https://www.risein.com/bootcamp-details/internet-computer-internship-bootcamp)
 
-To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
+This project aims to facilitate the sharing of knowledge (books) among users through a decentralized web platform. The main goal is to create a transparent and accessible system for borrowing and donating books within a community.
 
-To learn more before you start working with shareknowledge, see the following documentation available online:
+## Project Overview
 
-- [Quick Start](https://internetcomputer.org/docs/current/developer-docs/setup/deploy-locally)
-- [SDK Developer Tools](https://internetcomputer.org/docs/current/developer-docs/setup/install)
-- [Motoko Programming Language Guide](https://internetcomputer.org/docs/current/motoko/main/motoko)
-- [Motoko Language Quick Reference](https://internetcomputer.org/docs/current/motoko/main/language-manual)
+The shareknowledge Project allows users to add books to a collection and borrow books from the collection. While the project currently does not utilize a database, it serves as a starting point for implementing a decentralized book-sharing platform.
+
+![Project Preview](projectpreview.gif)
+
+## Features
+
+- Add books to the collection: Users can add books they own to the shared collection.
+- Borrow books: Users can browse the collection and borrow books from other users.
+- Transparent borrowing system: The project aims to create transparency in the borrowing process, ensuring fair and accountable book-sharing practices.
+
+## Future Improvements
+
+Although the current version of the project is very simple, there are plans for future enhancements, including:
+
+- Login with Internet Identity and create your own book collection with borrowed books.
+- Implementing a decentralized database: Integrate a decentralized database to store book information securely.
+- Token gifting system: Reward users with tokens for donating books to the collection, encouraging community participation and contribution.
+- Special user role for authors which they can add the same book more than once to promote their books.
+- Enhanced user experience: Improve the user interface (like a lot!) and add features for easier book discovery, borrowing and adding to the collection.
+
+# To run this project in your computer:
 
 If you want to start working on your project right away, you might want to try the following commands:
 
