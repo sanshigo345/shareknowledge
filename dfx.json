@@ -1,0 +1,26 @@
+{
+  "canisters": {
+    "shareknowledge_backend": {
+      "main": "src/shareknowledge_backend/main.mo",
+      "type": "motoko"
+    },
+    "shareknowledge_frontend": {
+      "dependencies": [
+        "shareknowledge_backend"
+      ],
+      "source": [
+        "src/shareknowledge_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "shareknowledge_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
