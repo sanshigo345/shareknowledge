@@ -1,6 +1,6 @@
 ## shareknowledge
 
-Welcome to my shareknowledge project done for [Internet Computer Internship Bootcamp](https://www.risein.com/bootcamp-details/internet-computer-internship-bootcamp)
+Welcome to my shareknowledge project, initially this project started for [Internet Computer Internship Bootcamp](https://www.risein.com/bootcamp-details/internet-computer-internship-bootcamp)
 
 This project aims to facilitate the sharing of knowledge (books) among users through a decentralized web platform. The main goal is to create a transparent and accessible system for borrowing and donating books within a community.
 
