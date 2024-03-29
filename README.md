@@ -1,22 +1,22 @@
-### shareknowledge
+# shareknowledge
 
 Welcome to my shareknowledge project, initially this project started for [Internet Computer Internship Bootcamp](https://www.risein.com/bootcamp-details/internet-computer-internship-bootcamp)
 
 This project aims to facilitate the sharing of knowledge (books) among users through a decentralized web platform. The main goal is to create a transparent and accessible system for borrowing and donating books within a community.
 
-## Project Overview
+### Project Overview
 
 The shareknowledge Project allows users to add books to a collection and borrow books from the collection. While the project is very very new in development right now and currently does not utilize a database, it serves as a starting point for implementing a decentralized knowledge sharing platform.
 
 ![Project Preview](projectpreview.gif)
 
-## Features
+### Features
 
 - Add books to the collection: Users can add books they own to the shared collection.
 - Borrow books: Users can browse the collection and borrow books from other users.
 - Transparent borrowing system: The project aims to create transparency in the borrowing process, ensuring fair and accountable book-sharing practices.
 
-## Future Improvements
+### Future Improvements
 
 Although the current version of the project is very simple, there are plans for future enhancements, including:
 
@@ -37,7 +37,7 @@ dfx help
 dfx canister --help
 ```
 
-## Running the project locally
+### Running the project locally
 
 If you want to test your project locally, you can use the following commands:
 
